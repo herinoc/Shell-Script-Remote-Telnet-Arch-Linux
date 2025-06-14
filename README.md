@@ -1,4 +1,4 @@
-# Shell-Script-Remote-Telnet-Arch-Linux
+# Shell-Script-Remote-Telnet-Arch-Linux 🍄
 
 Langkah 1: Mempersiapkan dan Membuat Script Telnet memerlukan sebuah utilitas bernama expect.
 
