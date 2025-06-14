@@ -1,7 +1,6 @@
 # Shell-Script-Remote-Telnet-Arch-Linux
 
-Langkah 1: Mempersiapkan dan Membuat Script Telnet
-Untuk bisa berinteraksi secara otomatis dengan prompt Telnet yang interaktif, kita memerlukan sebuah utilitas bernama expect. Pastikan paket inetutils (untuk Telnet) dan expect sudah terinstal di sistem Anda.
+Langkah 1: Mempersiapkan dan Membuat Script Telnet memerlukan sebuah utilitas bernama expect.
 
 $ sudo pacman -S inetutils expect
 
