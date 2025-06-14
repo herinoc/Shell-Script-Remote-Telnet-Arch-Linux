@@ -9,7 +9,7 @@ Selanjutnya, buat file script baru, misalnya remote_telnet.sh, menggunakan edito
 
 $ nano remote_telnet.sh
 
-Salin dan tempel kode berikut ke dalam file remote_telnet.sh. Script ini menggunakan expect, sebuah utilitas untuk mengotomatiskan interaksi dengan program berbasis teks seperti Telnet.
+Salin dan tempel kode remote_telnet.sh ke nano simpan ctrl-o + enter.
 
 Menjalankan Script
 Berikan Izin Eksekusi: Sebelum menjalankan, buat script tersebut dapat dieksekusi dengan perintah:
